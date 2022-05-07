@@ -1,0 +1,48 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eazisilver/youtube-clone.git"
+  },
+  "scripts": {
+    "dev:server": "nodemon",
+    "dev:assets": "webpack"
+  },
+  "keywords": [
+    "Youtube"
+  ],
+  "author": "eazysilver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eazisilver/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/eazisilver/youtube-clone#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-mongo": "^4.4.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "node-fetch": "^2.6.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.14.9",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.2.0",
+    "nodemon": "^2.0.12",
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
