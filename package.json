@@ -21,7 +21,7 @@
   "homepage": "https://github.com/eazisilver/youtube-clone#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "connect-mongo": "^4.4.1",
+    "connect-mongo": "^4.6.0",
     "dotenv": "^10.0.0",
     "express": "^4.19.2",
     "express-session": "^1.17.2",
