@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/eazisilver/youtube-clone#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^5.1.0",
     "connect-mongo": "^4.6.0",
     "dotenv": "^10.0.0",
     "express": "^4.20.0",
@@ -29,7 +29,7 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.3",
     "node-fetch": "^2.6.1",
-    "pug": "^3.0.2"
+    "pug": "^3.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
