@@ -35,7 +35,7 @@
     "@babel/core": "^7.14.8",
     "@babel/node": "^7.14.9",
     "@babel/preset-env": "^7.14.9",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.3.0",
     "css-loader": "^6.2.0",
     "mini-css-extract-plugin": "^2.2.0",
     "nodemon": "^2.0.12",
